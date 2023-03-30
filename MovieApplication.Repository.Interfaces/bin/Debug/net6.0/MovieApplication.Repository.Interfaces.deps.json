@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MovieApplication.Repository.Interfaces/1.0.0": {
+        "dependencies": {
+          "MovieApplication.Core": "1.0.0"
+        },
+        "runtime": {
+          "MovieApplication.Repository.Interfaces.dll": {}
+        }
+      },
+      "MovieApplication.Core/1.0.0": {
+        "runtime": {
+          "MovieApplication.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieApplication.Repository.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieApplication.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

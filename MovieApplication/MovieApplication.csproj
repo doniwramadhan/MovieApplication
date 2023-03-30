@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieApplication.Core\MovieApplication.Core.csproj" />
+    <ProjectReference Include="..\MovieApplication.Repository.Interfaces\MovieApplication.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\MovieApplication.Repository\MovieApplication.Repository.csproj" />
+    <ProjectReference Include="..\MovieApplication.Service.Interfaces\MovieApplication.Service.Interfaces.csproj" />
+    <ProjectReference Include="..\MovieApplication.Service\MovieApplication.Service.csproj" />
+  </ItemGroup>
+
+</Project>

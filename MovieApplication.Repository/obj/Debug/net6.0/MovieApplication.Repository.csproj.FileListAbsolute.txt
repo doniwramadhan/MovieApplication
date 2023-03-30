@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Repository.deps.json
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Repository.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Repository.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Core.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Repository.Interfaces.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Core.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\bin\Debug\net6.0\MovieApplication.Repository.Interfaces.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\refint\MovieApplication.Repository.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\MovieApplication.Repository.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Repository\obj\Debug\net6.0\ref\MovieApplication.Repository.dll

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\bin\Debug\net6.0\MovieApplication.Core.deps.json
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\bin\Debug\net6.0\MovieApplication.Core.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\bin\Debug\net6.0\MovieApplication.Core.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\refint\MovieApplication.Core.dll
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\MovieApplication.Core.pdb
+C:\Users\LENOVO\source\repos\MovieApplication\MovieApplication.Core\obj\Debug\net6.0\ref\MovieApplication.Core.dll
